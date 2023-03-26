@@ -1,0 +1,32 @@
+[33mcommit 343b65132278255fca799ef15d9a30d80c7c3fbd[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m, [m[1;32mmain[m[33m)[m
+Author: Jung Song <jusong@essex.com>
+Date:   Sun Mar 26 16:20:26 2023 -0700
+
+    Fourth Commit
+
+[33mcommit d77d6465375ed8ce68f2384d5048724bc912fd6a[m
+Author: Jung Song <jusong@essex.com>
+Date:   Sun Mar 26 16:17:05 2023 -0700
+
+    Third Commit
+
+[33mcommit 90cb29db154320d3404216713e23014f1803f5f2[m
+Merge: b162350 90375bd
+Author: jusongessex <108901309+jusongessex@users.noreply.github.com>
+Date:   Sun Mar 26 16:08:41 2023 -0700
+
+    Merge pull request #1 from jusongessex/dev
+    
+    Second Commit
+
+[33mcommit 90375bdf48c5cdabdcf301424477d2c88ceaf252[m
+Author: Jung Song <jusong@essex.com>
+Date:   Sun Mar 26 16:06:25 2023 -0700
+
+    Second Commit
+
+[33mcommit b1623507711c24705ea5b973b0bd574260798605[m
+Author: Jung Song <jusong@essex.com>
+Date:   Sun Mar 26 16:03:16 2023 -0700
+
+    first commit
